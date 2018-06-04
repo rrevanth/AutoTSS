@@ -1,8 +1,8 @@
-# AutoTSS - Mac
+# AutoTSS - Windows
 
 1. Download the latest version of python3: https://www.python.org/downloads/release/python-365/
 
-2. Download the Windows Release of AutoTSS:
+2. Download the Windows Release of AutoTSS:https://github.com/SpiderCab/AutoTSS/blob/master/Windows/AutoTSS_Windows.zip?raw=true
 
 3. Extract the files from the zip and place the extracted contents into a Folder called "AutoTSS" in your Documents folder. It has to be in Documents or the program will not work.
 
