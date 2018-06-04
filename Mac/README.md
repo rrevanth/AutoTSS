@@ -7,7 +7,7 @@
 - pip3 install requests
 - pip3 install dataset
 
-3. Download a copy of this repo from here: -
+3. Download a copy of the Mac release from here: https://github.com/SpiderCab/AutoTSS/blob/master/Mac/AutoTSS_MAC.zip?raw=true
 
 4. Extract that zip into a folder and copy all the contents into a folder called AutoTSS in your User Documents folder.
 
